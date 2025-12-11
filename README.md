@@ -28,6 +28,8 @@ This repository aims to support a wide range of handheld gaming devices, includi
 
 ## Repository Structure
 
+The following structure is planned for organizing content as the repository grows:
+
 ```
 handheld-firmwares/
 ├── devices/          # Device-specific firmware and documentation
@@ -64,7 +66,7 @@ Please ensure all contributions:
 - Include proper attribution and licensing information
 - Follow the existing documentation format
 - Are tested and verified working
-- Include checksums for firmware files (MD5/SHA256)
+- Include checksums for firmware files (SHA256 or SHA3)
 
 ## Safety and Disclaimer
 
